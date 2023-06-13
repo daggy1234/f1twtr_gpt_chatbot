@@ -7,3 +7,7 @@ I scraped this data using the methodolgy outlined in https://github.com/daggy123
 ## OPenAI
 
 I used OpenAI for both the LLM and the EMbeddings. The API was pretty affordable, but you will need a key to make this demo work.
+
+## Demo
+
+https://raw.githubusercontent.com/daggy1234/f1twtr_gpt_chatbot/main/demo.mov
