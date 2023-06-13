@@ -10,4 +10,7 @@ I used OpenAI for both the LLM and the EMbeddings. The API was pretty affordable
 
 ## Demo
 
-<video src='https://raw.githubusercontent.com/daggy1234/f1twtr_gpt_chatbot/main/demo.mp4' width="100%>
+
+
+https://github.com/daggy1234/f1twtr_gpt_chatbot/assets/60603110/d996079b-40c2-4599-91a3-231ce6cf4684
+
